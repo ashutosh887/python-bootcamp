@@ -51,3 +51,8 @@ print("Some dictionary functions: ")
     # .update()  or dict["key:] = "new value"
     # .keys() = Prints all the keys
     # .items() = Prints key value pairs
+    # dictionary-name.values()
+    # for key, value in student.items():
+    #     print(key, value)
+
+    # .get("key-name", "default value")     Returns the default-value if the key is not found...
